@@ -1,0 +1,16 @@
+ 1041  cat hello_world.txt
+ 1042  git add -A
+ 1043  git status
+ 1044  git commit -m "hello_world.txtを追加"
+ 1045  git status
+ 1046  git tree
+ 1047  echo "こんにちは、世界！" >> hello_world.txt
+ 1048  cat hello_world.txt
+ 1049  cat hello_world.txt
+ 1050  git status
+ 1051  git add -A
+ 1052  git status
+ 1053  git commit -m "日本語訳を追記"
+ 1054  git status
+ 1055  git tree
+ 1056  history
